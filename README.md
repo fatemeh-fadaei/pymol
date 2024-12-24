@@ -1,1 +1,2 @@
 # pymol
+show cell
