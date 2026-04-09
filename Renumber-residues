@@ -1,0 +1,2 @@
+#Renumber residues to start at 50
+alter all, resi = str(int(resi) - 49)
