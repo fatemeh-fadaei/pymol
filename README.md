@@ -8,5 +8,5 @@ PyMOL CGO script to display labeled 3D coordinate axes (X, Y, Z).
 *[Renumber-residues](Renumber-residues)
 renumber residues in PyMOL starting from 1 (when they currently start at 50), 
 
-If you want the animation to play once and then stop instead of repeating forever
+** If you want the animation to play once and then stop instead of repeating forever
 set movie_loop, 0
