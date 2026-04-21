@@ -25,3 +25,4 @@ morph mout, conf1, conf2, match=in, refinement=0
 set movie_loop, 0
  You clicked /first_0ns//J/DG`563/O4' -> (pk1)
  You clicked /first_0ns//J/DG`563/C4' -> (pk2)
+set fog, on
