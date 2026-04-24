@@ -8,3 +8,4 @@ PyMOL CGO script to display labeled 3D coordinate axes (X, Y, Z).
 *[Renumber-residues](Renumber-residues)
 renumber residues in PyMOL starting from 1 (when they currently start at 50), 
 
+print(cmd.get_fastastr("all"))
