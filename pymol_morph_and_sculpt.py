@@ -26,5 +26,9 @@ set movie_loop, 0
  You clicked /first_0ns//J/DG`563/O4' -> (pk1)
  You clicked /first_0ns//J/DG`563/C4' -> (pk2)
 set fog, on
-
+#join all morphs
 join_states morph_all, mout*, mode=0
+
+
+PyMOL>print(cmd.get_object_list())
+['traj', 'single_box_min', 'mout', 'first_0ns', 'obj01', 'mout5', 'morph_all']
